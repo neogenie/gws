@@ -1,0 +1,24 @@
+[package]
+name = "jsonrpc-ws"
+version = "0.0.1"
+edition = "2021"
+authors = ["Neo"]
+description = "JSON-RPC 2.0 websocket client & server implementation."
+documentation = "https://docs.rs/jsonrpc-ws/"
+homepage = "https://github.com/neogenie/jsonrpc-ws/"
+repository = "https://github.com/neogenie/jsonrpc-ws"
+readme = "README.md"
+keywords = [
+    "websocket",
+    "jsonrpc",
+]
+categories = ["network-programming", "web-programming::websocket", "asynchronous"]
+license = "MIT OR Apache-2.0"
+autobenches = false
+exclude = ["examples/*", "benchmark/*"]
+rust-version = "1.83"
+
+[lib]
+bench = false
+
+[dependencies]
