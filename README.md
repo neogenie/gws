@@ -1,1 +1,1 @@
-# jsonrpc-ws
+# jrws
