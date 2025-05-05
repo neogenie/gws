@@ -1,12 +1,12 @@
 [package]
-name = "jrws"
+name = "gws"
 version = "0.0.1"
 edition = "2021"
 authors = ["Neo"]
 description = "JSON-RPC 2.0 websocket client & server implementation."
-documentation = "https://docs.rs/jrws/"
-homepage = "https://github.com/neogenie/jrws/"
-repository = "https://github.com/neogenie/jrws"
+documentation = "https://docs.rs/gws/"
+homepage = "https://github.com/neogenie/gws/"
+repository = "https://github.com/neogenie/gws/"
 readme = "README.md"
 keywords = [
     "websocket",
